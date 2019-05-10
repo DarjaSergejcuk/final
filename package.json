@@ -1,0 +1,62 @@
+{
+  "name": "test",
+  "private": true,
+  "description": "Darja Sergejcuk personal Website",
+  "version": "0.1.0",
+  "author": "Darja Sergejcuk",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.18",
+    "@fortawesome/free-brands-svg-icons": "^5.8.2",
+    "@fortawesome/free-solid-svg-icons": "^5.8.2",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "bootstrap": "^4.3.1",
+    "gatsby": "^2.3.32",
+    "gatsby-image": "^2.0.40",
+    "gatsby-plugin-manifest": "^2.0.29",
+    "gatsby-plugin-offline": "^2.0.25",
+    "gatsby-plugin-react-helmet": "^3.0.12",
+    "gatsby-plugin-sharp": "^2.0.35",
+    "gatsby-source-filesystem": "^2.0.32",
+    "gatsby-transformer-sharp": "^2.1.18",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-cookie-consent": "^2.3.1",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.0",
+    "shariff": "^3.2.0",
+    "typeface-amatic-sc": "0.0.72",
+    "typeface-calligraffitti": "0.0.72",
+    "typeface-cormorant-unicase": "0.0.71",
+    "typeface-dancing-script": "0.0.72",
+    "typeface-great-vibes": "0.0.72",
+    "typeface-herr-von-muellerhoff": "0.0.72",
+    "typeface-lato": "0.0.54",
+    "typeface-league-script": "0.0.71",
+    "typeface-monsieur-la-doulaise": "0.0.71",
+    "typeface-montserrat": "0.0.54",
+    "typeface-parisienne": "0.0.72"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.2",
+    "prettier": "^1.17.0"
+  },
+  "keywords": [
+    "Darja Sergejcuk"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}
